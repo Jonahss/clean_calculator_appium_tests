@@ -1,0 +1,7 @@
+[caps]
+platformName =       "Android",
+platformVersion =    "4.4",
+deviceName =         "Android S4",
+appPackage =         "home.jmstudios.calc",
+appActivity =        "Main",
+newCommandTimeout =  100000
